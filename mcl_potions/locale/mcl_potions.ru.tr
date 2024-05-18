@@ -1,0 +1,50 @@
+# textdomain: mcl_potions
+
+Strength=Сила
+Weakness=Слабость
+Resistance=Стойкость
+Slowness=Замедление
+Swiftness=Скорость
+Leaping=Прыгучесть
+Harming=Моментальный урон
+Fire Resistance=Огнестойкость
+Healing=Исцеление
+Invisibility=Невидимость
+Night Vision=Ночное зрение
+Poison=Отравление
+Regeneration=Регенерация
+Slow Falling=Плавное падение
+Water Breathing=Водное дыхание
+
+of Strength=силы
+of Weakness=слабости
+of Slowness=замедления
+of Swiftness=стремительности
+of Leaping=прыгучести
+of Harming=вреда
+of Fire Resistance=огнестойкости
+of Healing=исцеления
+of Invisibility=невидимости
+of Night Vision=ночного зрения
+of Poison=отравления
+of Regeneration=регенерации
+of Slow Falling=плавного падения
+of the Turtle Master=черепашьей мощи
+of Water Breathing=водного дыхания
+
+
+Potion=Зелье
+Splash Potion=Взрывное зелье
+Lingering Potion=Туманное зелье
+Arrow=Стрела
+
+No effect=Без эффектов
+When Applied:=При применении:
+
+Awkward Potion=Заурядное зелье
+Mudane Potion=Густое зелье
+Thick Potion=Мутное зелье
+Dragon Breath=Драконье дыхание
+
+Instant Healing=Моментальное излечение
+Instant Damage=Моментальный урон
